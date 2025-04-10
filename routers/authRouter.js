@@ -1,13 +1,10 @@
 import express from 'express';
-import addToCart from '../routes/cart/addToCart.js';
-import updateCartItem from '../routes/cart/updateCartItem.js';
-import removeCartItem from '../routes/cart/removeCartItem.js';
-import auth from '../middleware/auth.js';
+import register from '../routes/auth/register.js';
+import login from '../routes/auth/login.js';
 
 const router = express.Router();
 
-router.post('/', auth, addToCart);
-router.put('/:id', auth, updateCartItem);
-router.delete('/:id', auth, removeCartItem);
+router.post('/register', register);
+router.post('/login', login);
 
 export default router;
