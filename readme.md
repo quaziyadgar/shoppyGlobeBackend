@@ -41,7 +41,7 @@ Welcome to the backend API for ShoppyGlobe, a modern e-commerce application. Thi
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/shoppyglobe-backend.git
+   git clone https://github.com/quaziyadgar/shoppyglobe-backend.git
    cd shoppyglobe-backend
    ```
 
