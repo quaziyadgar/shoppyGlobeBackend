@@ -204,10 +204,3 @@ shoppyglobebackend/
 3. Make your changes and commit them (`git commit -m "Add feature"`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
-
-
-### Customization Tips
-- **GitHub Link**: Replace `https://github.com/quaziyadgar/shoppyGlobeBackend.git` with your actual repository URL.
-- **Screenshots**: Add a section or link to a folder with ThunderClient/MongoDB screenshots if required for submission.
-- **Additional Endpoints**: Include any custom endpoints you’ve added.
-- **License File**: Create a `LICENSE` file with the MIT License text if you choose to use it.
