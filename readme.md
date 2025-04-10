@@ -41,7 +41,7 @@ Welcome to the backend API for ShoppyGlobe, a modern e-commerce application. Thi
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/quaziyadgar/shoppyglobe-backend.git
+   git clone https://github.com/quaziyadgar/shoppyGlobeBackend.git
    cd shoppyglobe-backend
    ```
 
@@ -207,7 +207,7 @@ shoppyglobebackend/
 
 
 ### Customization Tips
-- **GitHub Link**: Replace `https://github.com/quaziyadgar/shoppyglobebackend.git` with your actual repository URL.
+- **GitHub Link**: Replace `https://github.com/quaziyadgar/shoppyGlobeBackend.git` with your actual repository URL.
 - **Screenshots**: Add a section or link to a folder with ThunderClient/MongoDB screenshots if required for submission.
 - **Additional Endpoints**: Include any custom endpoints you’ve added.
 - **License File**: Create a `LICENSE` file with the MIT License text if you choose to use it.
